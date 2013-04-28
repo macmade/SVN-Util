@@ -80,7 +80,7 @@ You'll then be able to call the script as a normal executable:
 License
 -------
 
-SVN-Util is released under the terms of the BSD License.
+SVN-Util is released under the terms of the BSD license.
 
 Repository Infos
 ----------------
